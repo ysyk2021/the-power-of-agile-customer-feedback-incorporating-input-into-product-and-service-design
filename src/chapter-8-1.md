@@ -1,5 +1,4 @@
-Chapter 8: Case Studies of Successful Application of Agile Customer Feedback: Real-life Examples of Companies that have Successfully Incorporated Agile Customer Feedback into their Business Practices
-=======================================================================================================================================================================================================
+# Real-life Examples of Companies that have Successfully Incorporated Agile Customer Feedback into their Business Practices
 
 In this chapter, we will explore real-life examples of companies that have successfully incorporated agile customer feedback into their business practices and achieved positive results.
 

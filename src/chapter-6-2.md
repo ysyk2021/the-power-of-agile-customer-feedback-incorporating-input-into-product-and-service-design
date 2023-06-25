@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Agile Customer Feedback: Qualitative and Quantitative Methods for Evaluation
-============================================================================================================
+# Qualitative and Quantitative Methods for Evaluation
 
 In this chapter, we will explore qualitative and quantitative methods for evaluating the success of an agile customer feedback approach.
 

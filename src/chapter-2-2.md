@@ -1,5 +1,4 @@
-Chapter 2: Understanding Agile Customer Feedback: Benefits of Agile Customer Feedback
-=====================================================================================
+# Benefits of Agile Customer Feedback
 
 In this chapter, we will explore the benefits of using an agile customer feedback approach to collecting and incorporating customer input into product and service design.
 

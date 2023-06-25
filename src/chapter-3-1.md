@@ -1,5 +1,4 @@
-Chapter 3: Creating a Customer Feedback Strategy: Identifying Key Feedback Channels
-===================================================================================
+# Identifying Key Feedback Channels
 
 In this chapter, we will explore strategies for identifying key feedback channels as part of a customer feedback strategy. We will discuss the importance of identifying feedback channels that are most relevant to customers, and the benefits of using multiple feedback channels.
 

@@ -1,5 +1,4 @@
-Chapter 2: Understanding Agile Customer Feedback: Definition of Agile Customer Feedback
-=======================================================================================
+# Definition of Agile Customer Feedback
 
 In this chapter, we will explore the concept of agile customer feedback and provide a definition for this approach to collecting and incorporating customer input into product and service design.
 

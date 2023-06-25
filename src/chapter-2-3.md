@@ -1,5 +1,4 @@
-Chapter 2: Understanding Agile Customer Feedback: Common Myths about Agile Customer Feedback
-============================================================================================
+# Common Myths about Agile Customer Feedback
 
 In this chapter, we will dispel some common myths about using an agile customer feedback approach to collecting and incorporating customer input into product and service design.
 

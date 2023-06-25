@@ -1,5 +1,4 @@
-Chapter 9: Integrating Agile Customer Feedback with Organizational Strategy: Developing an Agile Mindset as a Leader
-====================================================================================================================
+# Developing an Agile Mindset as a Leader
 
 In this chapter, we will explore how leaders can integrate agile customer feedback into their organizational strategy and develop an agile mindset to drive success.
 

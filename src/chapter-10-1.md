@@ -1,5 +1,4 @@
-Chapter 10: Conclusion: Recap of Key Points
-===========================================
+# Recap of Key Points
 
 In this book, we have explored the power of agile customer feedback and how it can be incorporated into product and service design. Here is a recap of some of the key points covered in this book:
 

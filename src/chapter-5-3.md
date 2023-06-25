@@ -1,5 +1,4 @@
-Chapter 5: Incorporating Feedback into Service Design: Developing a Customer-centric Culture
-============================================================================================
+# Developing a Customer-centric Culture
 
 In this chapter, we will explore how to incorporate customer feedback into service design and develop a customer-centric culture within your organization.
 

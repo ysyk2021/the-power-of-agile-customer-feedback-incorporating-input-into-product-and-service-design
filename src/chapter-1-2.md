@@ -1,5 +1,4 @@
-Chapter 1: Introduction: Overview of the Book
-=============================================
+# Overview of the Book
 
 In this book, we will explore the power of agile customer feedback and how it can be incorporated into product and service design. Agile customer feedback is an approach to collecting and incorporating customer input that emphasizes speed, flexibility, and collaboration.
 

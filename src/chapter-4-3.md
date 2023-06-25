@@ -1,5 +1,4 @@
-Chapter 4: Incorporating Feedback into Product Design: Scaling Feedback Across the Organization
-===============================================================================================
+# Scaling Feedback Across the Organization
 
 In this chapter, we will explore strategies for incorporating feedback into product design and scaling feedback across the organization. We will discuss the importance of involving cross-functional teams in the feedback process and offer techniques for doing so effectively.
 
