@@ -8,5 +8,4 @@ We will explore the benefits of using agile customer feedback to improve your pr
 
 Whether you're a small business owner or a product manager at a large corporation, "The Power of Agile Customer Feedback" can help you create better products and services that meet the needs of your customers and ultimately drive business success.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
