@@ -1,4 +1,4 @@
-Chapter: Common Obstacles to Agile Customer Feedback
+Common Obstacles to Agile Customer Feedback
 ====================================================
 
 Incorporating agile customer feedback into product and service design is not without its challenges. Organizations may face various obstacles that hinder the effective implementation of agile customer feedback practices. This chapter highlights some common challenges and provides insights on how to overcome them.

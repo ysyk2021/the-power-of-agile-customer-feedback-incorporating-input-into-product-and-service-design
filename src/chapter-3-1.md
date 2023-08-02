@@ -1,4 +1,4 @@
-Chapter: Identifying Key Feedback Channels
+Identifying Key Feedback Channels
 ==========================================
 
 Incorporating customer feedback into product and service design requires organizations to identify and leverage key feedback channels effectively. This chapter explores the various channels through which customers express their opinions, experiences, and suggestions, and provides guidance on how to identify and prioritize the most important feedback channels for your organization.

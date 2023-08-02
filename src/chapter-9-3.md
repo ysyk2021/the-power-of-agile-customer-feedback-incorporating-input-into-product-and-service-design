@@ -1,4 +1,4 @@
-Chapter: Developing an Agile Mindset as a Leader
+Developing an Agile Mindset as a Leader
 ================================================
 
 In today's fast-paced and ever-changing business environment, leaders must develop an agile mindset to effectively leverage agile customer feedback and incorporate it into product and service design. This chapter explores the importance of embracing agility as a leader and provides guidance on developing an agile mindset to drive innovation, adaptability, and customer-centricity within an organization.

@@ -1,4 +1,4 @@
-Chapter: Common Myths About Agile Customer Feedback
+Common Myths About Agile Customer Feedback
 ===================================================
 
 Agile customer feedback is an essential component of successful product and service design. However, there are several common myths and misconceptions surrounding agile customer feedback that can hinder its effectiveness. In this chapter, we will debunk these myths and provide a clear understanding of the realities of agile customer feedback.

@@ -1,4 +1,4 @@
-Chapter: Analyzing Feedback Data
+Analyzing Feedback Data
 ================================
 
 Incorporating agile customer feedback into product and service design requires effective analysis of the feedback data. This chapter explores the process of analyzing feedback data to gain valuable insights and drive informed decision-making. By employing data analysis techniques, organizations can extract meaningful information from customer feedback and make data-driven improvements.

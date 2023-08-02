@@ -1,4 +1,4 @@
-Chapter: Developing a Customer-Centric Culture
+Developing a Customer-Centric Culture
 ==============================================
 
 Developing a customer-centric culture is essential for organizations that value agile customer feedback and aim to incorporate it effectively into product and service design. This chapter explores the key steps and considerations in cultivating a customer-centric culture within an organization.
