@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Importance of Agile Customer Feedback](chapter-1-1.md)
-  - [Overview of the Book](chapter-1-2.md)
 - [Chapter 2: Understanding Agile Customer Feedback](chapter-2.md)
   - [Definition of Agile Customer Feedback](chapter-2-1.md)
   - [Benefits of Agile Customer Feedback](chapter-2-2.md)
