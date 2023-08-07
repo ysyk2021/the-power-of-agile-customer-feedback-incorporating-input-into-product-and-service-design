@@ -25,7 +25,6 @@
   - [Common Obstacles to Agile Customer Feedback](chapter-7-1.md)
   - [Strategies for Overcoming Challenges](chapter-7-2.md)
 - [Chapter 8: Case Studies of Successful Application of Agile Customer Feedback](chapter-8.md)
-  - [Real-life Examples of Companies that have Successfully Incorporated Agile Customer Feedback into their Business Practices](chapter-8-1.md)
 - [Chapter 9: Integrating Agile Customer Feedback with Organizational Strategy](chapter-9.md)
   - [Aligning Feedback with Business Goals](chapter-9-1.md)
   - [Fostering a Culture of Innovation and Collaboration](chapter-9-2.md)
