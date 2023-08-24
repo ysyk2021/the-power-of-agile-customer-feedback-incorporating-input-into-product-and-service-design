@@ -1,5 +1,3 @@
-Chapter 2: Understanding Agile Customer Feedback
-================================================
 
 In this chapter, we will explore the concept of agile customer feedback and its benefits. Additionally, we will dispel some common myths about agile customer feedback.
 

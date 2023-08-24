@@ -1,4 +1,3 @@
-# Prioritizing Feedback for Maximum Impact
 
 In this chapter, we will explore strategies for incorporating feedback into product design and prioritizing feedback for maximum impact. We will discuss the importance of analyzing and prioritizing feedback and offer techniques for doing so effectively.
 

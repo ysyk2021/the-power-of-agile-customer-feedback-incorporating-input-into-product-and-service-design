@@ -1,5 +1,3 @@
-Qualitative and Quantitative Methods for Evaluation
-============================================================
 
 In this chapter, we will explore the importance of incorporating both qualitative and quantitative methods for evaluating customer feedback in the context of product and service design. We will discuss how these two approaches complement each other and provide valuable insights for improving and optimizing products and services. By combining qualitative and quantitative methods, organizations can gain a comprehensive understanding of customer needs, preferences, and perceptions, enabling them to make data-driven decisions.
 

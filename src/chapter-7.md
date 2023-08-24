@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Obstacles to Agile Customer Feedback
-==========================================================
 
 In this chapter, we will explore common obstacles that organizations may face when implementing an agile customer feedback approach and provide strategies for overcoming these challenges.
 

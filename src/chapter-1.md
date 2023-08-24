@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In today's fast-paced business world, staying connected to your customers and meeting their needs is more important than ever. One of the most effective ways to achieve this is through agile customer feedback. In this chapter, we will discuss the importance of agile customer feedback and provide an overview of the book.
 

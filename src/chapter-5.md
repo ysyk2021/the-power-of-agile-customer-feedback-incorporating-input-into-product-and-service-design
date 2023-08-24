@@ -1,5 +1,3 @@
-Chapter 5: Incorporating Feedback into Service Design
-=====================================================
 
 In this chapter, we will explore strategies for incorporating feedback into service design. We will discuss the importance of using feedback to improve customer experience, enhancing service quality and delivery, and developing a customer-centric culture.
 

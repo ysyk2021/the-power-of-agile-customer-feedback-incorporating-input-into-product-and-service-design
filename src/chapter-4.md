@@ -1,5 +1,3 @@
-Chapter 4: Incorporating Feedback into Product Design
-=====================================================
 
 In this chapter, we will explore strategies for incorporating feedback into product design. We will discuss the importance of integrating feedback into the product development process, prioritizing feedback for maximum impact, and scaling feedback across the organization.
 

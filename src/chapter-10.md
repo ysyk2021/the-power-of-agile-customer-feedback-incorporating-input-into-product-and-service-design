@@ -1,5 +1,3 @@
-Chapter 10: Conclusion
-======================
 
 In this book, we have explored the power of agile customer feedback and how it can be incorporated into product and service design. We have discussed the benefits of using an agile customer feedback approach, common myths and misconceptions, strategies for creating a customer feedback strategy, key performance indicators for measuring success, overcoming obstacles to implementing an agile customer feedback approach, and real-life examples of companies that have successfully incorporated customer feedback into their business practices.
 

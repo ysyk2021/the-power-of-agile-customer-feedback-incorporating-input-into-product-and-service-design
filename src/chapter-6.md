@@ -1,5 +1,3 @@
-Chapter 6: Measuring Success in Agile Customer Feedback
-=======================================================
 
 Measuring the success of agile customer feedback is essential for businesses to understand the impact of incorporating customer input into product and service design. In this chapter, we will explore key performance indicators (KPIs) for measuring success and qualitative and quantitative methods for evaluation.
 

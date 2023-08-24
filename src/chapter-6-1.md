@@ -1,4 +1,3 @@
-# Key Performance Indicators (KPIs) for Measuring Success
 
 In this chapter, we will explore how to measure success when using an agile customer feedback approach and identify key performance indicators (KPIs) that can be used to track progress.
 

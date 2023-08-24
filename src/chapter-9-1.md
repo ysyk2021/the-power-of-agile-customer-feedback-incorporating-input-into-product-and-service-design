@@ -1,5 +1,3 @@
-Aligning Feedback with Business Goals
-==============================================
 
 Incorporating customer feedback into product and service design is most effective when it aligns with the broader business goals of an organization. This chapter explores the importance of aligning feedback with business goals and provides guidance on how to ensure that customer feedback efforts contribute to achieving organizational objectives effectively.
 

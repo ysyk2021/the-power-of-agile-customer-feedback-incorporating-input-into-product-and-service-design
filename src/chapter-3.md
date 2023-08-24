@@ -1,5 +1,3 @@
-Chapter 3: Creating a Customer Feedback Strategy
-================================================
 
 Creating a customer feedback strategy is essential for organizations that want to meet the needs and preferences of customers. By collecting and analyzing customer feedback, organizations can identify areas where improvements are needed, prioritize those areas, and develop targeted action plans to address them.
 

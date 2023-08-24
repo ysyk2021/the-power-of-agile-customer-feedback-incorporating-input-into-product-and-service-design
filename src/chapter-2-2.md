@@ -1,5 +1,3 @@
-Benefits of Agile Customer Feedback
-============================================
 
 Agile customer feedback is a powerful tool that can significantly impact the success of product and service design. By actively involving customers throughout the development process, organizations can reap numerous benefits. In this chapter, we will explore the key advantages of agile customer feedback and how it contributes to creating customer-centric solutions.
 
